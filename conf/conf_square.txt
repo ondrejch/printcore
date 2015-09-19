@@ -1,0 +1,18 @@
+#fileout
+square.eps
+# pitch
+0.8
+#layout [(h)ex/(s)quare]
+s
+#size
+5
+#symmetry
+1
+#colors
+0 1 1 1 0
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+0 1 1 1 0
+
+-0.0 -0.0
